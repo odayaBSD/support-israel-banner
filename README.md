@@ -4,7 +4,7 @@ Use this snippet to show your support for Israelis on the top of your website. I
 
 ## About 
 This code adds a small banner on top of your website with israel flag and support message.
-![image of the banner](banner.png)
+![image of the banner](assets/support-israel-banner.jpg)
 
 
 
